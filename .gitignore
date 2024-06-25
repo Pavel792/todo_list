@@ -1,0 +1,5 @@
+
+todo_app/todo_app/__pycache__
+todo_app/base/__pycache__
+todo_app/base/migrations/__pycache__
+.venv
